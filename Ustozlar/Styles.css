@@ -1,0 +1,78 @@
+
+
+.nav{
+    display: flex;
+   justify-content: space-between;
+   text-align: center;
+   align-items: center;
+    color: rgb(4, 111, 99);
+   width: 1480px;
+   height: 100px;
+   list-style-type: none;    
+   font-size: 20px;
+background-color: rgb(4, 120, 89);    
+
+}
+
+.liis{
+   display: flex;
+   justify-content: center;
+   text-align: center;
+text-decoration: none;
+color: rgb(255, 255, 255);
+
+}
+
+
+.liis:hover{
+   color: yellow;
+   /* background-color: white; */
+   font-size: 40px;
+}
+
+b{
+   color: yellow;
+   font-size: 20px;
+}
+
+
+.card{
+   width: 300px;
+   height: 400px;
+   background-color: blanchedalmond;
+   border: 15px black;
+   border-radius: 10px;
+margin: 20px;
+
+}
+
+
+.Names{
+   font-size: 20px;
+   font-weight: bolder;
+   margin-left: 50px;
+}
+
+
+.born{
+   font-size: 19px;
+   margin-left: 30px;
+
+
+}
+
+.number{
+   font-size: 19px;
+   margin-left: 30px;
+}
+.all_info{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+} 
+
+
+
+
